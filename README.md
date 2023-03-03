@@ -1,2 +1,2 @@
-# text-share
+# Text-share
 An opensource pastebin app.

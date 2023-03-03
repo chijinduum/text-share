@@ -1,4 +1,4 @@
-# Text-share
+# TextShare
 An opensource pastebin app clone that can be used to share code.
 
 

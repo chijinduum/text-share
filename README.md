@@ -1,5 +1,5 @@
 # TextShare
-An opensource pastebin app clone that can be used to share code.
+An opensource hastebin app clone that can be used to share code.
 
 
 
